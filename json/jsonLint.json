@@ -1,0 +1,26 @@
+{
+"FirstName": "Nishchay",
+"LastName": "Gupta",
+"StudentID": 1895314,
+"DOB": "11/10/1992",
+"Active": true,
+"GPA": 80.7,
+"Address": {
+"Number": 207,
+"Street": "Sherbrooke",
+"Zip Code": "H1NY6T"
+},
+"PhoneNumber": [
+"(514) 879-9966",
+"(438) 340-8855"
+],
+"Results": [{
+"Course": "Soft",
+"Mark": 86
+},
+{
+"Course": "Debugging",
+"Mark": 70
+}
+]
+}
